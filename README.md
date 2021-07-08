@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Here is some info about me to get you started:
 I am Ramiro Barra Soto, Full Stack Developer💻 I enjoy team work and building new things. I am passionate about technology 📡, build things with my hands 👍 and soccer ⚽.
 
 📛 My pronouns: He/his
