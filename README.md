@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ramirobarrasoto/ramirobarrasoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 I am Ramiro Barra Soto, Full Stack Developer💻 I enjoy team work and building new things. I am passionate about technology 📡, build things with my hands 👍 and soccer ⚽.
