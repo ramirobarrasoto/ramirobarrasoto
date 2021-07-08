@@ -4,13 +4,31 @@
 **ramirobarrasoto/ramirobarrasoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I am Ramiro Barra Soto, Full Stack Developer💻 I enjoy team work and building new things. I am passionate about technology 📡, build things with my hands 👍 and soccer ⚽.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📛 My pronouns: He/his
+
+I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live classes, code reviews, practice and pair programming. This allowed me to learn the following:
+
+Technologies:
+Front-End
+HTML
+CSS
+JavaScript
+React & Redux
+Material UI
+Back-End
+Node.Js
+Express
+PostgreSQL
+Sequelize
+Projects
+Healthier 🍅🌽🍉---> a healthy food e-commerce: Work In Progress!
+Weather App ☀️☁️❄️---> Visit the repository here!
+
+📚 I also studied two Java courses at the National Technological University of Córdoba and a diploma in Python National Technological University of Buenos Aires,.
+
+Wishlist:
+🌱 Learn Spring , React Native and Kotlin 
+How to contact me?
+📬 Send me an email: rbarrasoto@gmail.com, and connect with me on [Linkedin](https://www.linkedin.com/in/ramiro-barra-soto/) !
