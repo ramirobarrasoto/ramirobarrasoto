@@ -2,7 +2,7 @@
 
 
 Here is some info about me to get you started:
-I am Ramiro Barra Soto, Full Stack Developer💻 I enjoy team work and building new things. I am passionate about technology 📡, build things with my hands 👍 and soccer ⚽.
+I am Ramiro Barra Soto, Full Stack Developer💻 I enjoy team work and building new things. I am passionate about technology 📡, build things with my hands 👍 and sports ⚽.
 
 📛 My pronouns: He/his
 
