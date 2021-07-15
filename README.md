@@ -1,3 +1,5 @@
+![html5](https://user-images.githubusercontent.com/72580711/125793330-127dafab-0257-4840-8697-5076bfce4fd3.png)
+![nodejs](https://user-images.githubusercontent.com/72580711/125793351-5a883758-8568-4c6a-99ec-7f8b650ba235.png)
 ![es6](https://user-images.githubusercontent.com/72580711/125793202-7b7eedb4-a229-4372-875c-1e67abae6818.jpg)
 ### Hi there 👋
 
